@@ -4,18 +4,18 @@
   <h2>Hi, I'm <b>Amal P Sojan</b> 👋</h2>
   <p><b>React Native Developer</b> • CODIAC Technologies Pvt. Ltd • India (IST)</p>
 
-  <!-- Quick links -->
+  <!-- Quick links (badges) -->
+  <a href="https://github.com/amalpsojan">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/amalpsojan">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" height="16" style="vertical-align: middle; margin-right: 4px;"/>
-    LinkedIn
-  </a> •
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:amalpsojan@hotmail.com">
-    <img alt="Email" src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="16" height="16" style="vertical-align: middle; margin-right: 4px;"/>
-    Email
-  </a> •
+    <img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
   <a href="https://profile.indeed.com/p/amalp-6ey1u8f">
-    <img alt="Indeed" src="https://cdn.simpleicons.org/indeed/2164f4" width="16" height="16" style="vertical-align: middle; margin-right: 4px;"/>
-    Indeed
+    <img alt="Indeed" src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
   </a>
 
 </div>
@@ -73,17 +73,5 @@
 ---
 
 <p align="center">
-  Thanks for visiting! ⭐️ Star something you like or say hi on 
-  <a href="https://www.linkedin.com/in/amalpsojan">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="14" height="14" style="vertical-align: text-bottom; margin-right: 2px;"/>
-    LinkedIn
-  </a> • 
-  <a href="mailto:amalpsojan@hotmail.com">
-    <img alt="Email" src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="14" height="14" style="vertical-align: text-bottom; margin-right: 2px;"/>
-    Email
-  </a> • 
-  <a href="https://profile.indeed.com/p/amalp-6ey1u8f">
-    <img alt="Indeed" src="https://cdn.simpleicons.org/indeed/2164f4" width="14" height="14" style="vertical-align: text-bottom; margin-right: 2px;"/>
-    Indeed
-  </a>.
+  Thanks for visiting!
 </p>
